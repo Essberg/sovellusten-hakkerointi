@@ -111,7 +111,7 @@ Kokeilin nyt löytynyttä stringiä salasanaksi:
 
 16:15 Lippu löytyi!
 
-(Die.net)
+(Karvinen, Die.net)
 
 
 ## Lähteet
